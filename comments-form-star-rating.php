@@ -2,18 +2,18 @@
 
 /**
  * 
- * @link              https://www.nikhilpatel.com/
+ * @link              https://github.com/np2861996/Comments-Form-Star-Rating
  * @since             1.0.0
  * @package           Comments_Form_Star_Rating
  * 
  * 
  * @wordpress-plugin
  * Plugin Name:       Comments Form Star Rating for WordPress
- * Plugin URI:        https://www.github.com/nikhilpatel
+ * Plugin URI:        https://github.com/np2861996/Comments-Form-Star-Rating
  * Description:       Add star ratings in post comment form.
  * Version:           1.0.0
  * Author:            BeyondN
- * Author URI:        https://www.nikhilpatel.com/
+ * Author URI:        https://github.com/np2861996/Comments-Form-Star-Rating
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       cfsr
